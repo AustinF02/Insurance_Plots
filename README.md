@@ -1,10 +1,13 @@
 # Insurance Plots [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [<img alt="alt_text" width="350px" src="https://user-images.githubusercontent.com/108591389/200417011-f18f7b02-c8e4-4247-9838-30b0636375c2.png" />](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
 ## This program visualize the insurance data using:
-- Pandas
-- numpy
-- matplotlib
-- seaborn
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+Seaborn
 
 ## Features
 
