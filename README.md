@@ -32,3 +32,7 @@ Check if already installed
 pip list
 ```
 If pip not install check https://pip.pypa.io/en/stable/installation/
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
