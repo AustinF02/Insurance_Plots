@@ -31,8 +31,9 @@ Check if already installed
 ```sh
 pip list
 ```
-If pip not install check https://pip.pypa.io/en/stable/installation/
+[![python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)]([https://www.python.org/](https://pip.pypa.io/en/stable/installation/))
 
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
