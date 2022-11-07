@@ -1,4 +1,4 @@
-# Insurance Plots
+# Insurance Plots [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [<img alt="alt_text" width="350px" src="https://user-images.githubusercontent.com/108591389/200417011-f18f7b02-c8e4-4247-9838-30b0636375c2.png" />](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
 ## This program visualize the insurance data using:
 - Pandas
@@ -31,7 +31,6 @@ Check if already installed
 ```sh
 pip list
 ```
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
